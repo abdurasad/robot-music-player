@@ -55,6 +55,11 @@ footer {
   color: black;
   margin-top: 200px;
 }
+#audio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* Media query for smaller device */
 
 @media screen and (max-width: 1000px) {
